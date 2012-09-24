@@ -30,9 +30,9 @@ Strings
 
 Trees
 -----
-* Two nodes of a BST are swapped, correct the BST.
+* Two nodes of a BST are swapped, correct the BST. [Code] (https://github.com/kevindra/Algorithms/blob/master/Trees/CorrectTheBst.cpp)
 
-* Find if the given BST is correct.
+* Find if the given BST is correct. [Code] (https://github.com/kevindra/Algorithms/blob/master/Trees/isBST.cpp)
 
 Contact
 -------
